@@ -76,7 +76,7 @@ nav {
 .nav-links a {
   font-family: var(--font-mono);
   font-size: 0.72rem;
-  color: var(--grey-light);
+  color: var(--white);
   text-decoration: none;
   letter-spacing: 0.1em;
   text-transform: uppercase;
